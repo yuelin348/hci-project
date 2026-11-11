@@ -1,3 +1,11 @@
 ﻿respondent_id,q1_play_frequency,q2_session_length,q3_activity_variety,q4_info_channels,q5_first_information_method,q6_findability,q7_information_inconsistency,q8_missed_activity,q9_visited_confirmation,q10_uncertain_action,q11_burden,q12_desired_information,q13_preferred_mode,q14_non_intrusive_tool,q15_open_comment
 R01,A,B,C,AD,E,B,B,B,A,A,C,ADE,BCE,B,
 R02,C,C,B,DE,BD,C,B,A,A,B,C,ADEF,F,C,
+R03,A,C,C,AE,AD,B,C,C,A,A,C,ADE,F,C,希望不要太杂乱吧，也许让我自定义展示的项目？
+R04,A,E,D,ACDEF,BDE,B,B,C,C,A,C,A,C,B,
+R05,B,C,C,D,B,C,E,E,C,C,C,CE,F,C,
+R06,A,D,B,AD,A,B,E,C,C,C,B,H,C,C,
+R07,A,D,C,AE,B,B,C,C,B,B,C,ACD,F,B,
+R08,B,B,B,D,BE,B,C,C,C,B,B,AEF,F,C,
+R09,A,B,B,C,B,C,C,C,C,E,D,EF,C,B,
+R10,A,E,C,ACD,E,B,C,C,B,A,C,ACDEF,B,B,
